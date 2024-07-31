@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Omozogie Ogbeide-Ihama 
-- 👀 I’m a software engineering student passionate about web development and Python programming language 
-- 🌱 I’m currently learning C++ and exploring the world of kubernetes
-- 💞️ I’m looking to collaborate on available projects 
+- 👨‍💻I’m a software engineering student passionate about web development and Python programming language 
+- 💻 I’m currently learning C++ and exploring the world of kubernetes
+- 🤝I’m looking to collaborate on available projects 
 - 📫 Reach me on my linkedin https://www.linkedin.com/in/omozogie-ogbeide-ihama-303b3b30b
   
 
